@@ -1,1 +1,2 @@
 print("This is the contenct of b file")
+print("This is the line add in b file")
